@@ -1,0 +1,4 @@
+{
+  "peso": "{{ senPeso }}",
+  "altura": "{{ senAltura }}"
+ }
